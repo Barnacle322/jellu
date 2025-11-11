@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+
+html {
+    scroll-behavior: smooth;
+    background-color: #0E181E;
+    font-family: 'Nunito', sans-serif;
+}
+@font-face {
+    font-family: 'Nunito';
+    src: url('/NunitoItalic.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito';
+    src: url('/Nunito.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Google Sans Code';
+    src: url('/GoogleSansCode.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+.font-google-sans-code {
+    font-family: 'Google Sans Code', monospace;
+}

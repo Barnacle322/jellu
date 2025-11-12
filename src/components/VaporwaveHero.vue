@@ -15,8 +15,8 @@
             <div class="flex flex-col gap-4 mt-6 justify-center items-start">
                 <p class="font-bold text-xl">OFFICIAL LINKS</p>
                 <ul class="flex gap-6">
-                    <a href="https://x.com/jellufun"
-                        ><img class="size-7" src="/logo-white.png" alt=""
+                    <a class="flex justify-center items-center" href="https://x.com/jellufun"
+                        ><img class="size-6" src="/logo-white.png" alt=""
                     /></a>
 
                     <a href="https://t.me/jellufun"
@@ -44,9 +44,7 @@
                             />
                         </svg>
                     </a>
-                    <a
-                        href="https://somnia.meme/coin/0xd5447af13a1df69add89e185155b20fb72d5e9a7
-"
+                    <a href="https://somnia.meme/coin/0xd5447af13a1df69add89e185155b20fb72d5e9a7"
                         ><img src="/somnia-meme.avif" class="size-7" alt=""
                     /></a>
                     <a
@@ -66,6 +64,10 @@
                             ></path>
                         </svg>
                     </a>
+                    <a
+                        href="https://somnex.xyz/#/swap/0x28bec7e30e6faee657a03e19bf1128aad7632a00/0xd5447af13a1df69add89e185155b20fb72d5e9a7"
+                        ><img src="/somnex.svg" class="size-7" alt=""
+                    /></a>
                 </ul>
             </div>
         </div>

@@ -23,13 +23,21 @@
                     through a newly formed DAO and fun things to increase expsoreu to the somnia
                     blockchain as the #1 somnia meme…
                 </p>
-                <a
-                    href="https://stargate.finance/bridge?srcChain=ethereum&srcToken=0x1B0F6590d21dc02B92ad3A7D00F8884dC4f1aed9&dstChain=somnia&dstToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE
+                <div class="flex items-center gap-4">
+                    <a
+                        href="https://stargate.finance/?srcChain=base&srcToken=0x47636b3188774a3E7273D85A537b9bA4Ee7b2535&dstChain=somnia&dstToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE
 "
-                    class="font-google-sans-code shadow-2xl w-fit rounded-full px-6 py-3 font-bold text-white text-lg mt-4 bg-cover bg-center bg-no-repeat border-0 hover:scale-105 transition-transform duration-300"
-                    style="background-image: linear-gradient(225deg, #8e47ff 0%, #333aff 100%)"
-                    >Bridge to Somnia</a
-                >
+                        class="font-google-sans-code shadow-2xl w-fit rounded-full px-6 py-3 font-bold text-white text-lg mt-4 bg-cover bg-center bg-no-repeat border-0 hover:scale-105 transition-transform duration-300"
+                        style="background-image: linear-gradient(225deg, #8e47ff 0%, #333aff 100%)"
+                        >Bridge to Somnia</a
+                    >
+                    <a
+                        href="https://somnex.xyz/#/swap/0x28bec7e30e6faee657a03e19bf1128aad7632a00/0xd5447af13a1df69add89e185155b20fb72d5e9a7"
+                        class="font-google-sans-code shadow-2xl w-fit rounded-full px-6 py-3 font-bold text-white text-lg mt-4 bg-cover bg-center bg-no-repeat border-0 hover:scale-105 transition-transform duration-300"
+                        style="background-image: linear-gradient(225deg, #00d4ff 0%, #0066ff 100%)"
+                        >Buy $JELLU</a
+                    >
+                </div>
             </div>
             <div class="rounded-4xl overflow-hidden h-full w-full aspect-square relative z-10">
                 <div class="h-full w-full relative overflow-hidden">

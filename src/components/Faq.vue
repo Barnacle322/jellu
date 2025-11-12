@@ -28,9 +28,9 @@ const faqs = [
                 text: 'Use the official Somnia bridge on Stargate or through CEXs like Binance.',
             },
             {
-                type: 'text',
-                text: '[Insert your official bridge URL and any approved options here]',
-                classes: 'italic text-white/70',
+                type: 'link',
+                href: 'https://stargate.finance/?srcChain=base&srcToken=0x47636b3188774a3E7273D85A537b9bA4Ee7b2535&dstChain=somnia&dstToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE',
+                label: 'Stargate Bridge',
             },
         ],
     },
